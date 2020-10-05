@@ -5,8 +5,8 @@ import android.view.View;
 import pens.lab.app.belajaractivity.base.BaseFragmentHolderActivity;
 
 
-public class LoginActivity extends BaseFragmentHolderActivity {
-    LoginFragment loginFragment;
+public class ProfileActivity extends BaseFragmentHolderActivity {
+    ProfileFragment profileFragment;
     private final int UPDATE_REQUEST = 2019;
 
     @Override
@@ -18,8 +18,8 @@ public class LoginActivity extends BaseFragmentHolderActivity {
 //        ivIcon.setImageResource(R.drawable.....);
         ivIcon.setVisibility(View.VISIBLE);
 
-        loginFragment = new LoginFragment();
-        setCurrentFragment(loginFragment, false);
+        profileFragment = new ProfileFragment();
+        setCurrentFragment(profileFragment, false);
 
     }
 

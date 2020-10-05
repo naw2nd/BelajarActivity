@@ -20,7 +20,6 @@ public class FirstActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first);
-
         tvFirstActivity = findViewById(R.id.tvFirstActivity);
         btnMove = findViewById(R.id.btnMove);
         btnCounter = findViewById(R.id.btnCounter);

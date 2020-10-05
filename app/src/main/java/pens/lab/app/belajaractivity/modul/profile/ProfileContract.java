@@ -7,7 +7,7 @@ import pens.lab.app.belajaractivity.base.BaseView;
  * Created by fahrul on 13/03/19.
  */
 
-public interface LoginContract {
+public interface ProfileContract {
     interface View extends BaseView<Presenter> {
         void redirectToProfile();
     }

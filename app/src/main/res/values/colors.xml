@@ -25,8 +25,9 @@
 
 
     <!--Color By Nawa-->
-    <color name="a">#128C7E</color>
-    <color name="b">#075e54</color>
-    <color name="c">#41a290</color>
-
+    <color name="orenJeruk">#f26627</color>
+    <color name="orenPudar">#f9a26c</color>
+    <color name="orenPutih">#efeeee</color>
+    <color name="biruPudar">#9bd7d1</color>
+    <color name="biruMatang">#325879</color>
 </resources>

@@ -32,10 +32,10 @@
         <item name="imageTransparentOverlay">@color/pantoneTransparent</item>
     </style>
 
-    <style name="Baru" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/a</item>
-        <item name="colorPrimaryDark">@color/b</item>
-        <item name="tabBackgroundColor">@color/c</item>
+    <style name="OrenStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/orenJeruk</item>
+        <item name="colorPrimaryDark">@color/orenPudar</item>
+        <item name="tabBackgroundColor">@color/biruPudar</item>
         <item name="toolbarBackgroundColor">@color/pantone331c</item>
         <item name="textDarkColor">@color/pantoneDark331c</item>
         <item name="textTabColor">@color/pantoneDark331c</item>
